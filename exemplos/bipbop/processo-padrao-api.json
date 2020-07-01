@@ -1,0 +1,155 @@
+[
+    {
+        "tipo": "Processo Judicial",
+        "origem": {
+            "nome": "Tribunal",
+            "url": "https://consultapublicapje.tjba.jus.br/pje-web/ConsultaPublica/listView.seam"
+        },
+        "capa": {
+            "assunto": "DIREITO CIVIL - Obrigações - Espécies de Contratos - Compra e Venda",
+            "classe": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL (159)",
+            "dataAjuizamento": "2019-02-13T00:00:00-03:00",
+            "nivelSigilo": "Público",
+            "numeros": {
+                "cliente": "",
+                "cnj": "8000260-85.2019.8.05.0154",
+                "interno": ""
+            },
+            "orgao": {
+                "codigo": "",
+                "instancia": "1",
+                "localidade": "LUIS EDUARDO MAGALHÃES",
+                "nome": "TJBA - Tribunal de Justiça do Estado da Bahia",
+                "uf": "BA"
+            },
+            "magistrado": "",
+            "tipoAcao": ""
+        },
+        "dadosComplementares": [
+            {
+                "tipo": "tipoProcesso",
+                "tipoDado": "string",
+                "valor": "Processo eletrônico"
+            },
+            {
+                "tipo": "consulta",
+                "tipoDado": "string",
+                "valor": "Consulta PJe Primeiro Grau"
+            }
+        ],
+        "advogados": [
+            {
+                "documento": {
+                    "numero": "111.111.111-11",
+                    "tipo": "CPF",
+                    "uf": ""
+                },
+                "nome": "GLORIA OLIVEIRA",
+                "oab": "12345",
+                "ufOab": "BA",
+                "envolvimento": "Polo Ativo",
+                "parte": "JOAO ANTONIO"
+            },
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "AROLDO FERRAZ",
+                "oab": "12345",
+                "ufOab": "BA",
+                "envolvimento": "Polo Ativo",
+                "parte": "JOAO ANTONIO"
+            },
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "CASSIANO SILVA",
+                "oab": "12345",
+                "ufOab": "PR",
+                "envolvimento": "Polo Passivo",
+                "parte": "EUA FLORESTAL LTDA - EPP"
+            }
+        ],
+        "envolvidos": [
+            {
+                "documento": {
+                    "numero": "111.111.111-11",
+                    "tipo": "CPF",
+                    "uf": ""
+                },
+                "nome": "JOAO ANTONIO",
+                "envolvimento": "Polo Ativo",
+                "qualificacao": "Autor"
+            },
+            {
+                "documento": {
+                    "numero": "22.222.222/2222-22",
+                    "tipo": "CNPJ",
+                    "uf": ""
+                },
+                "nome": "EUA FLORESTAL LTDA - EPP",
+                "envolvimento": "Polo Passivo",
+                "qualificacao": "Réu"
+            }
+        ],
+        "movimentacoes": [
+            {
+                "data": "2019-12-11T00:00:00-03:00",
+                "texto": "Conclusos para decisão",
+                "documento": "",
+                "id": "60d6f438ef50563549655a19bfd68493",
+                "prazo": "",
+                "responsavel": "",
+                "tipo": ""
+            },
+            {
+                "data": "2019-12-11T00:00:00-03:00",
+                "texto": "Juntada de Petição",
+                "documento": "",
+                "id": "9d8bf51c17c84328a10444ae03ebe600",
+                "prazo": "",
+                "responsavel": "",
+                "tipo": ""
+            },
+            {
+                "data": "2019-12-03T00:00:00-03:00",
+                "texto": "Publicado Intimação em 02/12/2019.",
+                "documento": "",
+                "id": "99d03d974bc77b5faf456ea32ccd040d",
+                "prazo": "",
+                "responsavel": "",
+                "tipo": ""
+            }
+        ],
+        "processosVinculados": [
+            {
+                "instancia": "2",
+                "numero": "000260-85.2019.8.05.0154/0002",
+                "orgao": "TJBA - Tribunal de Justiça do Estado da Bahia",
+                "tipo": "Incidente"
+            }
+        ],
+        "schema": "",
+        "valores": [
+            {
+                "data": "2019-02-13T00:00:00-03:00",
+                "id": "1",
+                "moeda": "R$",
+                "tipo": "Valor da ação",
+                "valor": "1400.00"
+            },
+            {
+                "data": "2019-12-01T00:00:00-03:00",
+                "id": "2",
+                "moeda": "R$",
+                "tipo": "Valor da provisionado",
+                "valor": "1000.00"
+            }
+        ]
+    }
+]

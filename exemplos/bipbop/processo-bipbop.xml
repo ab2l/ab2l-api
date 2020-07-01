@@ -1,0 +1,116 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<BPQL>
+<header specialResourceUse="0" resourceUse="0">
+<date-time>09/01/2020 22:27:48</date-time>
+<description>TJBA - PJe Primeiro Grau</description>
+<execution-time>5</execution-time>
+<query database="JURISTEK" table="PUSH">SELECT FROM 'JURISTEK'.'PUSH'</query>
+</header>
+<body>
+<processo filter="8000260-85.2019.8.05.0154" id="3a61b8a22c06f2190d17b55936d67c80" pushguid="bc7a836954205c14ff61c078ce6ba7bf" origin="pje" databaseUrl="http://www5.tjba.jus.br/portal/" databaseName="TJBA" databaseDescription="TJBA - Tribunal de Justiça do Estado da Bahia" tableName="ConsultaPJePrimeiroGrau" tableUrl="https://consultapublicapje.tjba.jus.br/pje-web/ConsultaPublica/listView.seam" tableType="processo" tableUpload="true" tableDescription="Consulta PJe Primeiro Grau">
+<numero_processo>8000260-85.2019.8.05.0154</numero_processo>
+<eletronico>1</eletronico>
+<distribuicao format="d/m/Y">13/02/2019</distribuicao>
+<classe>EXECUÇÃO DE TÍTULO EXTRAJUDICIAL (159)</classe>
+<assunto>
+DIREITO CIVIL - Obrigações - Espécies de Contratos - Compra e Venda
+</assunto>
+<comarca>LUIS EDUARDO MAGALHÃES</comarca>
+<advogados>
+<advogado OAB="BA12345" parte="JOAO ANTONIO" documento="111.111.111-11">GLORIA OLIVEIRA</advogado>
+<advogado OAB="BA12345" parte="JOAO ANTONIO" documento="111.111.111-11">AROLDO FERRAZ</advogado>
+<advogado OAB="BA12345" parte="JOAO ANTONIO" documento="111.111.111-11">JOAO OLIVEIRA</advogado>
+<advogado OAB="BA12345" parte="JOAO ANTONIO" documento="111.111.111-11">ALEXANDRE CASSIANO</advogado>
+<advogado OAB="BA12345" parte="JOAO ANTONIO " documento="111.111.111-11">MILLA SILVA</advogado>
+<advogado OAB="PR12345" parte="EUA FLORESTAL LTDA - EPP" documento="111.111.111-11">CASSIANO SILVA</advogado>
+</advogados>
+<andamentos>
+<andamento>
+<descricao>Conclusos para decisão</descricao>
+<data hash="60d6f438ef50563549655a19bfd68493" format="d/m/Y">11/12/2019</data>
+</andamento>
+<andamento>
+<descricao>Juntada de Petição</descricao>
+<data hash="9d8bf51c17c84328a10444ae03ebe600" format="d/m/Y">11/12/2019</data>
+</andamento>
+<andamento>
+<descricao>Decorrido prazo</descricao>
+<data hash="51682c8c618a926c8772a1914bbd8863" format="d/m/Y">11/12/2019</data>
+</andamento>
+<andamento>
+<descricao>Publicado Intimação em 02/12/2019.</descricao>
+<data hash="99d03d974bc77b5faf456ea32ccd040d" format="d/m/Y">03/12/2019</data>
+</andamento>
+<andamento>
+<descricao>Publicado Intimação em 28/11/2019.</descricao>
+<data hash="193085f8107239365bbaa7704fae0088" format="d/m/Y">30/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Disponibilizado no DJ Eletrônico</descricao>
+<data hash="55b9046341b11a6a94cbcebb9c98ba07" format="d/m/Y">29/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Publicado Intimação em 28/11/2019.</descricao>
+<data hash="1b4d6eaaf682e477ceb566751dfab0e9" format="d/m/Y">29/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Juntada de Petição de guias</descricao>
+<data hash="00668241c22f4091836bc2ba01d8b3f1" format="d/m/Y">28/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Juntada de Petição</descricao>
+<data hash="359f3099943a14b3aa889eecf90ea5f3" format="d/m/Y">28/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Juntada</descricao>
+<data hash="089a9cc946f98f366cf426cf0967db3d" format="d/m/Y">27/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Disponibilizado no DJ Eletrônico</descricao>
+<data hash="f208ca59c658512cd0d27ee28e22f7aa" format="d/m/Y">27/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Disponibilizado no DJ Eletrônico</descricao>
+<data hash="20ca20dce73a2048141e9e5f9a87b6dd" format="d/m/Y">27/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Homologada a Transação</descricao>
+<data hash="6fc4adc862f196b7ce4cf04f3e1bdcf0" format="d/m/Y">27/11/2019</data>
+</andamento>
+<andamento>
+<descricao>Conclusos para julgamento</descricao>
+<data hash="14b0b6efd877c015a84a2032483c9696" format="d/m/Y">16/10/2019</data>
+</andamento>
+<andamento>
+<descricao>Juntada de Petição</descricao>
+<data hash="71af0447433fa33b1cc0053999e7ee62" format="d/m/Y">26/09/2019</data>
+</andamento>
+<andamento>
+<descricao>Sentença (Sentença)</descricao>
+<data hash="20d0cc7af50ca3ada9587e42473f215e" format="d/m/Y">27/11/2019</data>
+<tipo_andamento>DOCUMENTO</tipo_andamento>
+</andamento>
+<andamento>
+<descricao>Despacho (Despacho)</descricao>
+<data hash="a4ffbd2959dee9bbd7a9a1cced96b444" format="d/m/Y">29/08/2019</data>
+<tipo_andamento>DOCUMENTO</tipo_andamento>
+</andamento>
+<andamento>
+<descricao>Decisão (Decisão)</descricao>
+<data hash="e2bc29385875cfc1849d8f34b6723a03" format="d/m/Y">29/07/2019</data>
+<tipo_andamento>DOCUMENTO</tipo_andamento>
+</andamento>
+<andamento>
+<descricao>Despacho (Despacho)</descricao>
+<data hash="1f203bb7162e63837bff212f6cdcf334" format="d/m/Y">25/02/2019</data>
+<tipo_andamento>DOCUMENTO</tipo_andamento>
+</andamento>
+</andamentos>
+<partes>
+<parte tipo="Polo Ativo" documento="111.111.111-11">JOAO ANTONIO</parte>
+<parte tipo="Polo Passivo" documento="22.222.222/2222-22">EUA FLORESTAL LTDA - EPP</parte>
+</partes>
+<instancia>1</instancia>
+</processo>
+</body>
+</BPQL>
