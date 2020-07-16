@@ -6,9 +6,13 @@ NOVO -- Desenvolver um padrão de troca de dados, como o objetivo de facilitar a
 
 SUBSTITUIR -- Desenvolver um layout padrão para facilitar a integração entre LegalTechs com o objetivo de reduzir o tempo de integração entre as aplicações e facilitar a troca de informações do ecossistema. -- SUBSTITUIR
 
-NOVO -- Para definição e implementação do padrão, foi criado um grupo de trabalho AB2L-API, com a participação de um conjunto de empresas, que analisou ou padrões do mercado, como o MNI (definir), bem como os alternativas de tecnologias. O grupo de trabalho foi responsável pela definição do lay-out do padrão, em JSON. -- NOVO 
+NOVO -- Para definição e implementação do padrão, foi criado um grupo de trabalho AB2L-API, com a participação de um conjunto de empresas, que analisou ou padrões do mercado, como o MNI (definir), bem como os alternativas de tecnologias. O grupo de trabalho foi responsável pela definição da especificação do padrão, em JSON. -- NOVO 
 
 SUBSTITUIR --Para isso foi criado um grupo de trabalho com a participção de um conjunto de empresas, que analisou padrões existentes no mercado, como o MNI, padrões de formato de dados, tecnologias adotadas pelas empresas e dados que são trocados. -- SUBSTITUIR
+
+NOVO -- A primeira versão da especificação do PIDJ será lançada para consulta publica em Agosto de 2020. -- NOVO 
+
+NOVO -- O Grupo de Trabalho será responsável pela evolução do padrão, incorporando as sugestões recebidas da comunidade. -- NOVO 
 
 ## Grupo de trabalho
 * Daniel Marques @AB2L
@@ -44,4 +48,6 @@ SUBSTITUIR --Para isso foi criado um grupo de trabalho com a participção de um
     * Formato americano com separação por ponto (.) de decimais, exemplo:  1000.00
 * Qual é o Charset adotado?
     * UTF-8
+* Como será realizada a troca de dados entre os sistemas jurídico do mercado?
+    * As empresas desenvolvedoras de sistemas jurídicos deverão implementar rotinas de exportação e importação de dados, conforme especificação do padrão. 
 
