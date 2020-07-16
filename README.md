@@ -50,4 +50,6 @@ NOVO -- O Grupo de Trabalho será responsável pela evolução do padrão, incor
     * UTF-8
 * Como será realizada a troca de dados entre os sistemas jurídico do mercado?
     * As empresas desenvolvedoras de sistemas jurídicos deverão implementar rotinas de exportação e importação de dados, conforme especificação do padrão. 
+    
+    
 
