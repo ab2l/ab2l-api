@@ -25,6 +25,7 @@ NOVO -- O Grupo de Trabalho será responsável pela evolução do padrão, incor
 ## Atividades do grupo
 * Padrão de troca de dados de Processos
 * Formato de troca de dados
+* Definição de tabelas de apoio principais
 
 
 ## Próximas atividades
