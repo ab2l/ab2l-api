@@ -2,17 +2,13 @@
 
 ## Objetivo do Projeto
 
-NOVO -- Desenvolver um padrão de troca de dados, como o objetivo de facilitar a troca de dados de processos judiciais entre os sistemas das LegalTechs que compõem o ecossistema da Ab2L, criando um procolo único, que possa ser implementado e utilizado pelos diversos players do mercado. O Padrão de Interoperabilidade de Dados Jurídicos tem como objetivo reduzir o custo e o tempo de integrações e importação de dados entre os sistemas, contribuindo desta forma para dinamizar o ecossistema de LegalTechs da AB2L -- NOVO
+Desenvolver um padrão de troca de dados, como o objetivo de facilitar a troca de dados de processos judiciais entre os sistemas das LegalTechs que compõem o ecossistema da AB2L, criando um procolo único, que possa ser implementado e utilizado pelos diversos players do mercado. O Padrão de Interoperabilidade de Dados Jurídicos tem como objetivo reduzir o custo e o tempo de integrações e importação de dados entre os sistemas, contribuindo desta forma para dinamizar o ecossistema de LegalTechs da AB2L.
 
-SUBSTITUIR -- Desenvolver um layout padrão para facilitar a integração entre LegalTechs com o objetivo de reduzir o tempo de integração entre as aplicações e facilitar a troca de informações do ecossistema. -- SUBSTITUIR
+Para definição e implementação do padrão, foi criado um grupo de trabalho AB2L-API, com a participação de representantes de um conjunto de empresas, que analisou ou padrões do mercado, como o MNI (definir), bem como os alternativas de tecnologias pra troca de dados. O grupo de trabalho foi responsável pela definição da especificação do padrão, em JSON.  
 
-NOVO -- Para definição e implementação do padrão, foi criado um grupo de trabalho AB2L-API, com a participação de um conjunto de empresas, que analisou ou padrões do mercado, como o MNI (definir), bem como os alternativas de tecnologias pra troca de dados. O grupo de trabalho foi responsável pela definição da especificação do padrão, em JSON. -- NOVO 
+A primeira versão da especificação do PIDJ será lançada para consulta publica em Agosto de 2020. 
 
-SUBSTITUIR --Para isso foi criado um grupo de trabalho com a participção de um conjunto de empresas, que analisou padrões existentes no mercado, como o MNI, padrões de formato de dados, tecnologias adotadas pelas empresas e dados que são trocados. -- SUBSTITUIR
-
-NOVO -- A primeira versão da especificação do PIDJ será lançada para consulta publica em Agosto de 2020. -- NOVO 
-
-NOVO -- O Grupo de Trabalho será responsável pela evolução do padrão, incorporando as sugestões recebidas da comunidade. -- NOVO 
+O Grupo de Trabalho será responsável pela evolução do padrão, incorporando as sugestões recebidas da comunidade. 
 
 ## Grupo de trabalho
 * Daniel Marques @AB2L
