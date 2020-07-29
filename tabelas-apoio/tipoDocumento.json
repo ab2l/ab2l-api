@@ -1,0 +1,537 @@
+[
+    {
+      "tipoDocumento": "ACÓRDÃO"
+    },
+    {
+      "tipoDocumento": "ACORDO DE CONFIDENCIALIDADE (NDA)"
+    },
+    {
+      "tipoDocumento": "ACORDO DE NÍVEL DE SERVIÇO (SLA)"
+    },
+    {
+      "tipoDocumento": "AGRAVO DE INSTRUMENTO"
+    },
+    {
+      "tipoDocumento": "ALVARÁ JUDICIAL "
+    },
+    {
+      "tipoDocumento": "APELAÇÃO"
+    },
+    {
+      "tipoDocumento": "APÓLICE DE SEGURO"
+    },
+    {
+      "tipoDocumento": "ATA DE AUDIÊNCIA"
+    },
+    {
+      "tipoDocumento": "ATA DE REUNIÃO"
+    },
+    {
+      "tipoDocumento": "ATA DE REUNIÃO DE SÓCIOS"
+    },
+    {
+      "tipoDocumento": "AUTO DE INFRAÇÃO"
+    },
+    {
+      "tipoDocumento": "BALANÇO PATRIMONIAL "
+    },
+    {
+      "tipoDocumento": "BOLETO BANCÁRIO"
+    },
+    {
+      "tipoDocumento": "CADASTRO DE PESSOA FÍSICA - CPF"
+    },
+    {
+      "tipoDocumento": "CARTA"
+    },
+    {
+      "tipoDocumento": "CARTA DE ADJUDICAÇÃO"
+    },
+    {
+      "tipoDocumento": "CARTA DE ARREMATAÇÃO"
+    },
+    {
+      "tipoDocumento": "CARTA DE COBRANÇA"
+    },
+    {
+      "tipoDocumento": "CARTA DE CRÉDITO"
+    },
+    {
+      "tipoDocumento": "CARTA DE PREPOSTO"
+    },
+    {
+      "tipoDocumento": "CARTÃO DE CNPJ"
+    },
+    {
+      "tipoDocumento": "CARTÃO DE INSCRIÇÃO ESTADUAL"
+    },
+    {
+      "tipoDocumento": "CARTÃO DE INSCRIÇÃO MUNICIPAL"
+    },
+    {
+      "tipoDocumento": "CARTEIRA DE INDENTIDADE"
+    },
+    {
+      "tipoDocumento": "CARTEIRA DE TRABALHO"
+    },
+    {
+      "tipoDocumento": "CARTEIRA PROFISSIONAL"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO CONJUNTA NEGATIVA DE DÉBITOS RELATIVOS À TRIBUTOS FEDERAIS E A DÍVIDA ATIVA DA ÚNIÃO"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO CONJUNTA POSITIVA COM EFEITOS DE NEGATIVA RELATIVOS A TRIBUTOS FEDERAIS E À DÍVIDA ATIVA DA UNIÃO "
+    },
+    {
+      "tipoDocumento": "CERTIDÃO CONJUNTA POSITIVA DE DÉBITOS RELATIVOS A TRIBUTOS FEDERAIS E À DIVIDA ATIVA DA UNIÃO"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITOS DE IMÓVEL RURAL"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO POSITIVA DE DÉBITOS DE IMÓVEL RURAL",
+      "FIELD2": " COM EFEITOS DE NEGATIVA "
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DE ACÓRDÃO"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DE ANTECEDENTES CRIMINAIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DE DISTRIBUIDORES CIVEIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DE DISTRIBUIDORES CRIMINAIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DE TRÂNSITO EM JULGADO"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO DO SICAF"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITO DE IMPOSTO ESTADUAIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITO DE IMPOSTO FEDERAIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITO DE IMPOSTO MUNICIPAIS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITO DE IMPOSTOS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITOS"
+    },
+    {
+      "tipoDocumento": "CERTIDÃO NEGATIVA DE DÉBITOS DO INSS"
+    },
+    {
+      "tipoDocumento": "CERTIFICADO DE GARANTIA"
+    },
+    {
+      "tipoDocumento": "CERTIFICADO DE ORIGEM"
+    },
+    {
+      "tipoDocumento": "CERTIFICADO DE REGULARIDADE DO FGTS"
+    },
+    {
+      "tipoDocumento": "CITAÇÃO"
+    },
+    {
+      "tipoDocumento": "CHEQUE"
+    },
+    {
+      "tipoDocumento": "COMPROVANTE DE DEPÓSITO"
+    },
+    {
+      "tipoDocumento": "COMPROVANTE DE PAGAMENTO "
+    },
+    {
+      "tipoDocumento": "COMPROVANTE DE RESIDÊNCIA"
+    },
+    {
+      "tipoDocumento": "CONHECIMENTO DE EMBARQUE AÉREO (AWB)"
+    },
+    {
+      "tipoDocumento": "CONHECIMENTO DE EMBARQUE MARÍTIMO (BL)"
+    },
+    {
+      "tipoDocumento": "CONSTITUIÇÃO DE SOCIEDADE"
+    },
+    {
+      "tipoDocumento": "CONTESTAÇÃO"
+    },
+    {
+      "tipoDocumento": "CONTRA-RAZÕES"
+    },
+    {
+      "tipoDocumento": "CONTRATO"
+    },
+    {
+      "tipoDocumento": "CONTRATO COMERCIAL"
+    },
+    {
+      "tipoDocumento": "CONTRATO DE CÂMBIO"
+    },
+    {
+      "tipoDocumento": "CONTRATO DE COMPRA E VENDA"
+    },
+    {
+      "tipoDocumento": "CONTRATO DE FINANCIAMENTO"
+    },
+    {
+      "tipoDocumento": "CONTRATO DE HONORÁRIOS"
+    },
+    {
+      "tipoDocumento": "CONTRATO DE TRANSFERÊNCIA DE TECNOLOGIA"
+    },
+    {
+      "tipoDocumento": "CONTRATO SOCIAL"
+    },
+    {
+      "tipoDocumento": "CONVOCAÇÃO PARA ASSEMBLEIA"
+    },
+    {
+      "tipoDocumento": "CRONOGRAMA"
+    },
+    {
+      "tipoDocumento": "CRONOGRAMA DO PROJETO"
+    },
+    {
+      "tipoDocumento": "CRONOGRAMA FÍSICO FINANCEIRO"
+    },
+    {
+      "tipoDocumento": "DOCUMENTO DE ARRECADAÇÃO MUNICIPAL (DAM)"
+    },
+    {
+      "tipoDocumento": "DOCUMENTO DE ARRECADAÇÃO DE RECEITA MUNICIPAL (DARM)"
+    },
+    {
+      "tipoDocumento": "DOCUMENTO DE ARRECAÇÃO DE RECEITA FEDERAL (DARF)"
+    },
+    {
+      "tipoDocumento": "DECISÃO"
+    },
+    {
+      "tipoDocumento": "DECLARAÇÃO"
+    },
+    {
+      "tipoDocumento": "DECLARAÇÃO DE IRRF"
+    },
+    {
+      "tipoDocumento": "DISTRATO CONTRATUAL"
+    },
+    {
+      "tipoDocumento": "DISTRATO DE SOCIEDADE"
+    },
+    {
+      "tipoDocumento": "DUPLICATA"
+    },
+    {
+      "tipoDocumento": "EDITAL"
+    },
+    {
+      "tipoDocumento": "EDITAL DE LICITAÇÃO"
+    },
+    {
+      "tipoDocumento": "EMAIL"
+    },
+    {
+      "tipoDocumento": "EMBARGO"
+    },
+    {
+      "tipoDocumento": "ESCOPO DE FORNECIMENTO"
+    },
+    {
+      "tipoDocumento": "ESCRITURA DE EMISSÃO DE DEBÊNTURES"
+    },
+    {
+      "tipoDocumento": "ESPECIFICAÇÃO TÉCNICA"
+    },
+    {
+      "tipoDocumento": "EXECUÇÃO"
+    },
+    {
+      "tipoDocumento": "EXTRATO BANCÁRIO"
+    },
+    {
+      "tipoDocumento": "FATURA COMERCIAL"
+    },
+    {
+      "tipoDocumento": "FATURA PRÓ-FORMA"
+    },
+    {
+      "tipoDocumento": "FICHA DE COMPENSAÇÃO"
+    },
+    {
+      "tipoDocumento": "GUIA DE RECOLHIMENTO DE RECEITA JUDICIÁRIA (GRERJ)"
+    },
+    {
+      "tipoDocumento": "GUIA DE PREVIDÊNCIA SOCIAL (GPS)"
+    },
+    {
+      "tipoDocumento": "IMPUGNAÇÃO"
+    },
+    {
+      "tipoDocumento": "INDICENTE"
+    },
+    {
+      "tipoDocumento": "INICIAL"
+    },
+    {
+      "tipoDocumento": "INTIMAÇÃO"
+    },
+    {
+      "tipoDocumento": "INSCRIÇÃO DO FGTS"
+    },
+    {
+      "tipoDocumento": "JURISPRUDÊNCIA"
+    },
+    {
+      "tipoDocumento": "LAUDO DE VISTORIA"
+    },
+    {
+      "tipoDocumento": "LAUDO PERICIAL"
+    },
+    {
+      "tipoDocumento": "LAUDO TÉCNICO"
+    },
+    {
+      "tipoDocumento": "LIMINAR"
+    },
+    {
+      "tipoDocumento": "MANDADO DE PAGAMENTO"
+    },
+    {
+      "tipoDocumento": "MANDADO DE PENHORA"
+    },
+    {
+      "tipoDocumento": "MANDADO DE SEGURANÇA"
+    },
+    {
+      "tipoDocumento": "MANUAL DE OPERAÇÃO"
+    },
+    {
+      "tipoDocumento": "MANUAL DE PRODUTO"
+    },
+    {
+      "tipoDocumento": "MEMORANDO DE ENTENDIMENTO"
+    },
+    {
+      "tipoDocumento": "MEMORIAL "
+    },
+    {
+      "tipoDocumento": "MINUTA DE CONTRATO"
+    },
+    {
+      "tipoDocumento": "NADA CONSTA"
+    },
+    {
+      "tipoDocumento": "NOTA DE DÉBITO"
+    },
+    {
+      "tipoDocumento": "NOTA FISCAL "
+    },
+    {
+      "tipoDocumento": "NOTA PROMISSÓRIA"
+    },
+    {
+      "tipoDocumento": "NOTIFICAÇÃO EXTRA-JUDICIAL"
+    },
+    {
+      "tipoDocumento": "NOTIFICAÇÃO JUDICIAL"
+    },
+    {
+      "tipoDocumento": "OFERTA PÚBLICA INICIAL (IPO)"
+    },
+    {
+      "tipoDocumento": "OFÍCIO"
+    },
+    {
+      "tipoDocumento": "ORÇAMENTO"
+    },
+    {
+      "tipoDocumento": "ORDEM DE COMPRA"
+    },
+    {
+      "tipoDocumento": "ORDEM DE PAGAMENTO"
+    },
+    {
+      "tipoDocumento": "OUTROS"
+    },
+    {
+      "tipoDocumento": "PARECER JURÍDICO"
+    },
+    {
+      "tipoDocumento": "PARECER DE IRRECUPERABILIDADE"
+    },
+    {
+      "tipoDocumento": "PETIÇÃO"
+    },
+    {
+      "tipoDocumento": "PETIÇÃO INICIAL"
+    },
+    {
+      "tipoDocumento": "PRESTAÇÃO DE CONTAS"
+    },
+    {
+      "tipoDocumento": "PROCURAÇÃO"
+    },
+    {
+      "tipoDocumento": "PROCURAÇÃO AD JUDICIA"
+    },
+    {
+      "tipoDocumento": "PROGRAMA DE CONTROLE MÉDICO DE SAÚDE OCUPACIONAL (PCMSO)"
+    },
+    {
+      "tipoDocumento": "PROGRAMA DE PREVENÇÃO DE ACIDENTES (PPRA)"
+    },
+    {
+      "tipoDocumento": "PROPOSTA COMERCIAL"
+    },
+    {
+      "tipoDocumento": "PROPOSTA DE ACORDO"
+    },
+    {
+      "tipoDocumento": "PROPOSTA DE SEGURO"
+    },
+    {
+      "tipoDocumento": "PROPOSTA TÉCNICA"
+    },
+    {
+      "tipoDocumento": "PROPOSTA TÉCNICA E COMERCIAL"
+    },
+    {
+      "tipoDocumento": "PUBLICAÇÃO"
+    },
+    {
+      "tipoDocumento": "RECIBO"
+    },
+    {
+      "tipoDocumento": "RECIBO DE DESPESAS"
+    },
+    {
+      "tipoDocumento": "RECIBO DE PAGAMENTO DE AUTÔNOMO (RPA)"
+    },
+    {
+      "tipoDocumento": "RECLAMAÇÃO"
+    },
+    {
+      "tipoDocumento": "RECURSO"
+    },
+    {
+      "tipoDocumento": "REGISTRO DE FILIAL"
+    },
+    {
+      "tipoDocumento": "REGISTRO DE MARCA "
+    },
+    {
+      "tipoDocumento": "REGISTRO DE PATENTE"
+    },
+    {
+      "tipoDocumento": "RELATÓRIO DE AUDITORIA"
+    },
+    {
+      "tipoDocumento": "RELATÓRIO DE IMPACTO AMBIENTAL (RIMA)"
+    },
+    {
+      "tipoDocumento": "RELATÓRIO DE INSPEÇÃO TÉCNICA"
+    },
+    {
+      "tipoDocumento": "RELATÓRIO DE RISCO"
+    },
+    {
+      "tipoDocumento": "RÉPLICA"
+    },
+    {
+      "tipoDocumento": "REQUERIMENTO"
+    },
+    {
+      "tipoDocumento": "REQUEST FOR INFORMATION (RFI)"
+    },
+    {
+      "tipoDocumento": "REQUEST FOR PROPOSAL (RFP)"
+    },
+    {
+      "tipoDocumento": "REQUEST FOR QUOTATION (RFQ )"
+    },
+    {
+      "tipoDocumento": "REQUEST FOR TENDER (RFT)"
+    },
+    {
+      "tipoDocumento": "RE-RATIFICAÇÃO"
+    },
+    {
+      "tipoDocumento": "RESCISÃO"
+    },
+    {
+      "tipoDocumento": "RESCISÃO CONTRATUAL "
+    },
+    {
+      "tipoDocumento": "ROMANEIO (PACKING-LIST)"
+    },
+    {
+      "tipoDocumento": "SAÍDA UNILATERAL"
+    },
+    {
+      "tipoDocumento": "SENTENÇA"
+    },
+    {
+      "tipoDocumento": "SUBSTABELECIMENTO"
+    },
+    {
+      "tipoDocumento": "TERMO DE ABERTURA DE LIVRO DIÁRIO"
+    },
+    {
+      "tipoDocumento": "TERMO DE ACORDO"
+    },
+    {
+      "tipoDocumento": "TERMO DE AJUSTAMENTO DE CONDUTA"
+    },
+    {
+      "tipoDocumento": "TERMO DE CISÃO DE SOCIEDADE"
+    },
+    {
+      "tipoDocumento": "TERMO DE DILIGÊNCIA FISCAL"
+    },
+    {
+      "tipoDocumento": "TERMO DE FIÉL DEPOSITÁRIO"
+    },
+    {
+      "tipoDocumento": "TERMO DE FUSÃO DE SOCIEDADE"
+    },
+    {
+      "tipoDocumento": "TERMO DE GARANTIA"
+    },
+    {
+      "tipoDocumento": "TERMO DE INCORPORAÇÃO DE SOCIEDADE"
+    },
+    {
+      "tipoDocumento": "TERMO DE QUITAÇÃO"
+    },
+    {
+      "tipoDocumento": "TERMO DE POSSE"
+    },
+    {
+      "tipoDocumento": "TERMO DE TRANSFERÊNCIA DE AÇÕES"
+    },
+    {
+      "tipoDocumento": "TERMO DE VISTORIA"
+    },
+    {
+      "tipoDocumento": "TRÉPLICA"
+    },
+    {
+      "tipoDocumento": "TUTELA ANTECIPADA"
+    }
+   ]

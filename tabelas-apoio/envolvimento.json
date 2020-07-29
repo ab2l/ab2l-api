@@ -1,0 +1,162 @@
+[
+    {
+      "envolvimento": "terceiro",
+      "qualificacao": "Terceiro"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Autor"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Agravante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Apelante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Embargante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Excipiente"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Exequente"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Impetrante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Impugnante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Interpelante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Inventariante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Notificante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Opoente"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Reclamante"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Reconvinte"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Recorrente"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Sujeito Ativo"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Réu"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Agravado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Apelado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Embargado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Excepto"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Executado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Impetrado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Impugnado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Interpelado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Inventariado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Notificado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Opostos"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Reclamado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Reconvido"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Recorrido"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Sujeito Passivo"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Preposto"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Requerente"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Requerido"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Acusador"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Acusado"
+    },
+    {
+      "envolvimento": "passivo",
+      "qualificacao": "Denunciado"
+    },
+    {
+      "envolvimento": "ativo",
+      "qualificacao": "Denunciante"
+    }
+   ]
