@@ -1,6 +1,7 @@
 [
     {
         "tipo": "Processo Judicial",
+        "versao": "1.00.00",
         "origem": {
             "nome": "Tribunal",
             "url": "https://consultapublicapje.tjba.jus.br/pje-web/ConsultaPublica/listView.seam"
@@ -13,11 +14,12 @@
             "numeros": {
                 "cliente": "",
                 "cnj": "8000260-85.2019.8.05.0154",
-                "interno": ""
+                "interno": "",
+                "adicional": ""
             },
             "orgao": {
                 "codigo": "",
-                "instancia": "1",
+                "instancia": "Primeiro Grau",
                 "localidade": "LUIS EDUARDO MAGALHÃES",
                 "nome": "TJBA - Tribunal de Justiça do Estado da Bahia",
                 "uf": "BA"
@@ -29,11 +31,13 @@
             {
                 "tipo": "tipoProcesso",
                 "tipoDado": "string",
+                "data": "",
                 "valor": "Processo eletrônico"
             },
             {
                 "tipo": "consulta",
                 "tipoDado": "string",
+                "data": "2019-02-13T00:00:00-03:00",
                 "valor": "Consulta PJe Primeiro Grau"
             }
         ],

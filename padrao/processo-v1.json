@@ -1,5 +1,6 @@
 [
     {
+        "versao": "",
         "tipo": "",
         "origem": {
             "nome": "",
@@ -13,7 +14,8 @@
             "numeros": {
                 "cliente": "",
                 "cnj": "",
-                "interno": ""
+                "interno": "",
+                "adicional": ""
             },
             "orgao": {
                 "codigo": "",
@@ -29,11 +31,13 @@
             {
                 "tipo": "",
                 "tipoDado": "",
+                "data": "",
                 "valor": ""
             },
             {
                 "tipo": "",
                 "tipoDado": "",
+                "data": "",
                 "valor": ""
             }
         ],
