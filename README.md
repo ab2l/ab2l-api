@@ -58,6 +58,8 @@ DESTA FORMA A AB2L NÃO POSSUI QUALQUER RESPONSABILIDADE POR EVENTUAIS INCIDENTE
     * As empresas desenvolvedoras de sistemas jurídicos deverão implementar rotinas de exportação e importação de dados, conforme especificação do padrão. 
 * Como posso enviar sugestões de melhoria ou correções relativas ao Padrão de Interoperabilidade de Dados Jurídicos? 
     * As sugestões de melhoria ou correções relativas ao PIDJ poderão ser enviados pelo GITHUB, como Issues, ou pelo fórum criado pela AB2L para tal fim. 
+* É possível transmitir também documentos utilizando o PIDJ?
+    * Sim, o protocolo prevê a transmissão de documentos associados aos processos judiciais.
     
     
 
