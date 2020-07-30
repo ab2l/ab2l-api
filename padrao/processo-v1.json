@@ -8,9 +8,11 @@
         },
         "capa": {
             "assunto": "",
+            "tipoAcao": "",
             "classe": "",
             "dataAjuizamento": "",
             "nivelSigilo": "",
+            "magistrado": "",
             "numeros": {
                 "cliente": "",
                 "cnj": "",
@@ -23,9 +25,7 @@
                 "localidade": "",
                 "nome": "",
                 "uf": ""
-            },
-            "magistrado": "",
-            "tipoAcao": ""
+            }
         },
         "dadosComplementares": [
             {
@@ -115,6 +115,24 @@
                 "numero": "",
                 "orgao": "",
                 "tipo": ""
+            }
+        ],
+        "documentos": [
+            {
+                "url": "",
+                "nome": "",
+                "tamanho": "",
+                "mimeType": "",
+                "tipo": "",
+                "md5": "",
+                "dataValidade": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
             }
         ],
         "schema": "",

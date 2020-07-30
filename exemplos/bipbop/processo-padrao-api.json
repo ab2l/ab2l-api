@@ -8,8 +8,10 @@
         },
         "capa": {
             "assunto": "DIREITO CIVIL - Obrigações - Espécies de Contratos - Compra e Venda",
+            "tipoAcao": "",
             "classe": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL (159)",
             "dataAjuizamento": "2019-02-13T00:00:00-03:00",
+            "magistrado": "",
             "nivelSigilo": "Público",
             "numeros": {
                 "cliente": "",
@@ -23,9 +25,7 @@
                 "localidade": "LUIS EDUARDO MAGALHÃES",
                 "nome": "TJBA - Tribunal de Justiça do Estado da Bahia",
                 "uf": "BA"
-            },
-            "magistrado": "",
-            "tipoAcao": ""
+            }
         },
         "dadosComplementares": [
             {
