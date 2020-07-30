@@ -26,11 +26,20 @@ O Grupo de Trabalho será responsável pela evolução do padrão, incorporando 
 
 ## Próximas atividades
 * Padronização da troca de documentos
-* Padronização da autorização e autenticação
 * Tabela de apoio de envolvimento em um processo
 * Tabela de apoio de orgãos, foros, comarcas e varas
     * Estruturar os dados fornecidos pelo CNJ: https://www.cnj.jus.br/programas-e-acoes/numeracao-unica/documentos/
 * Disponibilização das tabelas em um Webservice
+
+
+## SEGURANÇA DE INFORMAÇÃO E PRIVACIDADE DE DADOS
+
+A RESPONSABILIDADE PELA TRANSMISSÃO DOS DADOS, BEM COMO TODAS AS MEDIDAS PARA GARANTIA DA SEGURANÇA, SIGILO, INTEGRIDADE E PRIVACIDADE DOS MESMOS, SÃO DE INTEIRA RESPONSABILIDADE DAS PARTES ENVOLVIDAS EM CADA TRANSMISSÃO. ASSIM, TANTO O TRANSMISSOR DOS DADOS COMO O RECEPTOR SERÃO RESPONSÁVEIS POR IMPLEMENTAR AS MEDIDAS DE SEGURANÇAS NECESSÁRIAS NA TRANSMISSÃO, TAIS COMO FORMAS DE AUTENTICACAO, PROTOCOLOAS DE TRANSMISSÃO, CRIPTOGRAFIA ETC.TODOS OS DADOS DEVERÃO TRAFEGAR OBRIGATORIAMENTE CRIPTOGRAFADOS.
+
+A IMPLEMENTAÇÃO DAS FORMAS DE TRANSMISSÃO DOS DADOS E RESPECTIVAS MEDIDAS DE SEGURANÇA DE INFORMAÇÃO DEVE OBECEDER AOS CRITÉRIOS DE SIGILO E PRIVACIDADE ESTABELECIDOS NA LEGISLAÇÃO VIGENTE (EX: LGPD, GPDR). 
+
+DESTA FORMA A AB2L NÃO POSSUI QUALQUER RESPONSABILIDADE POR EVENTUAIS INCIDENTES DE SEGURANÇA DE INFORMAÇÃO QUE VENHAM A OCORRER NO USO DO PADRÃO DE TROCA DE DADOS AQUI PROPOSTO, SENDO ESTA DE EXCLUSIVA RESPONSABILIDADE DAS PARTES ENVOLVIDAS. 
+
 
 ## FAQ
 * Porque o formato de troca de dados escolhidos foi o JSON? 
@@ -47,6 +56,8 @@ O Grupo de Trabalho será responsável pela evolução do padrão, incorporando 
     * UTF-8
 * Como será realizada a troca de dados entre os sistemas jurídico do mercado?
     * As empresas desenvolvedoras de sistemas jurídicos deverão implementar rotinas de exportação e importação de dados, conforme especificação do padrão. 
+* Como posso enviar sugestões de melhoria ou correções relativas ao Padrão de Interoperabilidade de Dados Jurídicos? 
+    * As sugestões de melhoria ou correções relativas ao PIDJ poderão ser enviados pelo GITHUB, como Issues, ou pelo fórum criado pela AB2L para tal fim. 
     
     
 
