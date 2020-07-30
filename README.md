@@ -43,7 +43,7 @@ DESTA FORMA A AB2L NÃO POSSUI QUALQUER RESPONSABILIDADE POR EVENTUAIS INCIDENTE
 
 ## FAQ
 * Porque o formato de troca de dados escolhidos foi o JSON? 
-    * A decisão foi baseada em critérios, com os respectivos pesos. 
+    * A decisão foi baseada em critérios técnicos, através de análise de alternativas, com os respectivos pesos. 
     * Acesso a matriz de decisão: https://docs.google.com/spreadsheets/d/18d0TexNi5tsoRWMZr3Q2F8Vv_KMppcuFbjl0JCK6KtU/edit?usp=sharing
 * Como posso fazer o parsing dos dados?
     * Vamos disponibilizar JSON Schema do padrão.
