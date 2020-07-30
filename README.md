@@ -6,7 +6,7 @@ Desenvolver um padrão de troca de dados, como o objetivo de facilitar a troca d
 
 Para definição e implementação do padrão, foi criado um grupo de trabalho AB2L-API, com a participação de representantes de um conjunto de empresas, que analisou ou padrões do mercado, como o MNI (definir), bem como os alternativas de tecnologias pra troca de dados. O grupo de trabalho foi responsável pela definição da especificação do padrão, em JSON.  
 
-A primeira versão da especificação do PIDJ será lançada para consulta publica em Agosto de 2020. 
+A primeira versão da especificação do PIDJ será lançada para consulta pÚblica em Agosto de 2020. 
 
 O Grupo de Trabalho será responsável pela evolução do padrão, incorporando as sugestões recebidas da comunidade. 
 
