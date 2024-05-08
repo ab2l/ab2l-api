@@ -140,6 +140,24 @@
             }
         ],
         "schema": "",
+        "documentos": [
+            {
+                "url": "https://servidordearquivos.com.br/processos/8000260-85.2019.8.05.0154.pdf",
+                "nome": "8000260-85.2019.8.05.0154.pdf",
+                "tamanho": "9.8MB",
+                "tipo": "pdf",
+                "mimeType": "application/pdf",
+                "md5": "7e5978ffc68229b16d051499bf27097e",
+                "dataValidade": "2024-05-13T00:00:00-03:00",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            }
+        ],
         "valores": [
             {
                 "data": "2019-02-13T00:00:00-03:00",
@@ -155,6 +173,7 @@
                 "tipo": "Valor da provisionado",
                 "valor": "1000.00"
             }
-        ]
+        ],
+        "classes": []
     }
 ]
