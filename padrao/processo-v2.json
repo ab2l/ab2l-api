@@ -1,0 +1,200 @@
+[
+    {
+        "versao": "",
+        "tipo": "",
+        "origem": {
+            "nome": "",
+            "url": ""
+        },
+        "capa": {
+            "assunto": "",
+            "tipoAcao": "",
+            "classe": "",
+            "dataAjuizamento": "",
+            "nivelSigilo": "",
+            "magistrado": "",
+            "status": "",
+            "numeros": {
+                "cliente": "",
+                "cnj": "",
+                "interno": "",
+                "adicional": ""
+            },
+            "orgao": {
+                "codigo": "",
+                "instancia": "",
+                "localidade": "",
+                "nome": "",
+                "vara": "",
+                "uf": ""
+            }
+        },
+        "dadosComplementares": [
+            {
+                "tipo": "",
+                "tipoDado": "",
+                "data": "",
+                "valor": ""
+            },
+            {
+                "tipo": "",
+                "tipoDado": "",
+                "data": "",
+                "valor": ""
+            }
+        ],
+        "classes": [
+            {
+                "data": "",
+                "classe": "",
+                "motivoAlteracao": ""
+            }
+        ],
+        "advogados": [
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "",
+                "oab": "",
+                "ufOab": "",
+                "envolvimento": "",
+                "parte": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            },
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "",
+                "oab": "",
+                "ufOab": "",
+                "envolvimento": "",
+                "parte": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            }
+        ],
+        "envolvidos": [
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "",
+                "envolvimento": "",
+                "qualificacao": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            },
+            {
+                "documento": {
+                    "numero": "",
+                    "tipo": "",
+                    "uf": ""
+                },
+                "nome": "",
+                "envolvimento": "",
+                "qualificacao": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            }
+        ],
+        "movimentacoes": [
+            {
+                "data": "",
+                "texto": "",
+                "documento": "",
+                "id": "",
+                "prazo": "",
+                "responsavel": "",
+                "tipo": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+        ]
+            },
+            {
+                "data": "",
+                "texto": "",
+                "documento": "",
+                "id": "",
+                "prazo": "",
+                "responsavel": "",
+                "tipo": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+        ]
+            }
+        ],
+        "processosVinculados": [
+            {
+                "instancia": "",
+                "numero": "",
+                "orgao": "",
+                "tipo": ""
+            }
+        ],
+        "documentos": [
+            {
+                "url": "",
+                "nome": "",
+                "tamanho": "",
+                "mimeType": "",
+                "tipo": "",
+                "md5": "",
+                "dataValidade": "",
+                "dadosComplementares": [
+                    {
+                        "tipo": "",
+                        "tipoDado": "",
+                        "valor": ""
+                    }
+                ]
+            }
+        ],
+        "schema": "",
+        "valores": [
+            {
+                "data": "",
+                "id": "",
+                "moeda": "",
+                "tipo": "",
+                "valor": ""
+            }
+        ]
+    }
+]
